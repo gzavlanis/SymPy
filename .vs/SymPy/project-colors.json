@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eabec5ca-7ef2-498f-9200-62ebdc209d3e": {
+      "ProjectGuid": "eabec5ca-7ef2-498f-9200-62ebdc209d3e",
+      "DisplayName": "SymPy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
